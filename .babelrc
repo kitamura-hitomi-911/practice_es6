@@ -3,7 +3,8 @@
 		[
 			"@babel/preset-env",
 			{
-				"useBuiltIns": "entry"
+				"useBuiltIns": "entry",
+				"targets": ["> 1% in JP and last 2 versions and not ie 11"]
 			}
 		]
 	]
