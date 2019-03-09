@@ -2,7 +2,7 @@
   "name": "practice_es6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "common.js",
   "scripts": {
     "build": "webpack",
     "watch": "webpack --watch",
